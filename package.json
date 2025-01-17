@@ -1,10 +1,10 @@
 {
-    "name": "amazon-buddy",
-    "version": "2.2.44",
+    "name": "amazon-lupa",
+    "version": "1.0.0",
     "description": "Amazon Scraper. You can scrape products from amazon search result and you can also scrape reviews from a specific product",
     "main": "./lib/index.js",
     "bin": {
-        "amazon-buddy": "bin/cli.js"
+        "amazon-scraper": "bin/cli.js"
     },
     "files": [
         "lib"
@@ -34,7 +34,7 @@
         "amazon",
         "scraper"
     ],
-    "author": "drawrowfly",
+    "author": "silas-ss",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/silas-ss/amazon-product-scraper/issues"
